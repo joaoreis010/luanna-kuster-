@@ -20,7 +20,7 @@ export const Footer = () => {
                 Luanna <span className="italic font-light opacity-80">Kuster</span>
               </span>
               <span className="text-[10px] uppercase tracking-[0.4em] font-bold text-brand-accent">
-                Estética Premium
+                Estética Avançada
               </span>
             </div>
             <p className="text-zinc-400 font-light leading-relaxed max-w-sm mb-10">

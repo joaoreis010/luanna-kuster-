@@ -51,7 +51,7 @@ export const Navbar = () => {
               Luanna <span className="italic font-light opacity-80">Kuster</span>
             </span>
             <span className={`text-[8px] uppercase tracking-[0.4em] font-bold transition-colors duration-500 ${isScrolled || isMobileMenuOpen ? 'text-brand-accent' : 'text-brand-nude'}`}>
-              Estética Premium
+              Estética Avançada
             </span>
           </div>
         </a>
